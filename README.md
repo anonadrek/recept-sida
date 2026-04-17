@@ -73,3 +73,4 @@ frontend/
 - **Frontend:** React 18, Vite, Axios
 - **Databas:** SQLite (skapas automatiskt vid start)
 # recept-sida
+# recept-sida
