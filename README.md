@@ -74,3 +74,4 @@ frontend/
 - **Databas:** SQLite (skapas automatiskt vid start)
 # recept-sida
 # recept-sida
+# recept-sida
