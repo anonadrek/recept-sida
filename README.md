@@ -75,3 +75,4 @@ frontend/
 # recept-sida
 # recept-sida
 # recept-sida
+# recept-sida
