@@ -72,3 +72,4 @@ frontend/
 - **Backend:** FastAPI, SQLAlchemy, Pydantic, SQLite, Uvicorn
 - **Frontend:** React 18, Vite, Axios
 - **Databas:** SQLite (skapas automatiskt vid start)
+# recept-sida
